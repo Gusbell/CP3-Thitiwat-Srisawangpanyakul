@@ -10,7 +10,7 @@ def showTotal():
     print("---- Total ----")
     for number in menuList:
         total += int(number[1])
-    print("Total is %d Bath" %total)
+    print("Total is %d Baht" %total)
 
 while True:
     menuName = input("Plese Enter Menu :")

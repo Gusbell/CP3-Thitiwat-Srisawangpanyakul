@@ -11,7 +11,7 @@ def showTotal():
     print("---- Total ----")
     for number in priceList:
         total += int(number)
-    print("Total is %d Bath" %total)
+    print("Total is %d Baht" %total)
 
 while True:
     menuName = input("Plese Enter Menu :")
