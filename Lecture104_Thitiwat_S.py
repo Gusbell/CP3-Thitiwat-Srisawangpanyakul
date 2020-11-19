@@ -31,7 +31,7 @@ customer4.age = 16
 customer4.addCart()
 
 customer5 = Customer()              
-customer5.name = "ขี่ม้าคนวงทวน"
+customer5.name = "ขี่ม้าควงทวน"
 customer5.lastName = "ฝนหนาวสาวคราง"
 customer5.age = 20
 customer5.addCart()
